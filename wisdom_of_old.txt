@@ -1,3 +1,5 @@
 Eat well
 Get up early
 pray
+meditate
+Code in python
