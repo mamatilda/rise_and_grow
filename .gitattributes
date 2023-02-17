@@ -1,0 +1,2 @@
+LFT_test/* filter=lfs diff=lfs merge=lfs -text
+home/matilda/Repos/rise_and_grow/LFT_tes/* filter=lfs diff=lfs merge=lfs -text
